@@ -1,0 +1,10 @@
+[project]
+name = "wordtool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bayoo-docx>=0.2.20",
+    "click>=8.1.8",
+]
